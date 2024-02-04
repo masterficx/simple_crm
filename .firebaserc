@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "simple-crm-f3ccd": {
+      "hosting": {
+        "simple_crm": [
+          "simple-crm-f3ccd"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "simple-crm-f3ccd"
+  }
+}
