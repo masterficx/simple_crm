@@ -12,7 +12,7 @@ export class User {
         this.email = obj ? obj.email : '';
         this.birthDate = obj ? obj.birthDate : '';
         this.street = obj ? obj.street : '';
-        this.zipCode = obj ? obj.street : '';
+        this.zipCode = obj ? obj.zipCode : '';
         this.city = obj ? obj.city : '';
     }
 
